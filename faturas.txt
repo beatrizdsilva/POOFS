@@ -1,0 +1,41 @@
+Número da Fatura: 1
+Data: 03/12/2024
+Cliente: rita, 111222333, continente
+Produtos:
+Tipo: Taxa Reduzida, Código: 1, Nome: Maça, Descrição: eh bio!, Quantidade: 10, Valor Unitário Sem IVA: 1.2, Biológico: true, Certificações: ISO22000, Taxas: [6.0, 5.0, 4.0]
+Tipo: Taxa Intermédia, Código: 2, Nome: Vinho Tinto, Descrição: Caixa de 5 litros, Quantidade: 5, Valor Unitário Sem IVA: 10.0, Biológico: false, Categoria: vinho, Taxas: [13.0, 12.0, 9.0]
+---
+Número da Fatura: 2
+Data: 03/12/2024
+Cliente: bia, 123456789, continente
+Produtos:
+Tipo: Taxa Normal, Código: 3, Nome: Refrigerante, Descrição: Lata de refri, Quantidade: 30, Valor Unitário Sem IVA: 1.0, Biológico: false, Taxas: [23.0, 22.0, 16.0]
+Tipo: Farmácia Com Prescrição, Código: 4, Nome: Brufen, Descrição: 5mg, Quantidade: 10, Valor Unitário Sem IVA: 2.0, Médico: Rita, Taxas: [6.0, 5.0, 4.0]
+---
+Número da Fatura: 4
+Data: 03/12/2024
+Cliente: patricia, 444555666, madeira
+Produtos:
+Tipo: Taxa Reduzida, Código: 1, Nome: Maça, Descrição: eh bio!, Quantidade: 10, Valor Unitário Sem IVA: 1.2, Biológico: true, Certificações: ISO22000, Taxas: [6.0, 5.0, 4.0]
+Tipo: Taxa Intermédia, Código: 2, Nome: Vinho Tinto, Descrição: Caixa de 5 litros, Quantidade: 5, Valor Unitário Sem IVA: 10.0, Biológico: false, Categoria: vinho, Taxas: [13.0, 12.0, 9.0]
+---
+Número da Fatura: 5
+Data: 02/12/2024
+Cliente: yuri, 777888999, acores
+Produtos:
+Tipo: Taxa Normal, Código: 3, Nome: Refrigerante, Descrição: Lata de refri, Quantidade: 30, Valor Unitário Sem IVA: 1.0, Biológico: false, Taxas: [23.0, 22.0, 16.0]
+Tipo: Farmácia Com Prescrição, Código: 4, Nome: Brufen, Descrição: 5mg, Quantidade: 10, Valor Unitário Sem IVA: 2.0, Médico: Rita, Taxas: [6.0, 5.0, 4.0]
+Tipo: Farmácia Sem Prescrição, Código: 5, Nome: Mucus, Descrição: 50g, Quantidade: 5, Valor Unitário Sem IVA: 1.5, Categoria: animais, Taxas: [23.0, 23.0, 23.0]
+---
+Número da Fatura: 6
+Data: 08/12/2024
+Cliente: bia, 123456789, continente
+Produtos:
+Tipo: Farmácia Sem Prescrição, Código: 5, Nome: Mucus, Descrição: 50g, Quantidade: 5, Valor Unitário Sem IVA: 1.5, Categoria: animais, Taxas: [23.0, 23.0, 23.0]
+---
+Número da Fatura: 7
+Data: 08/12/2024
+Cliente: bia, 123456789, continente
+Produtos:
+Tipo: Taxa Reduzida, Código: 1, Nome: Maça, Descrição: eh bio!, Quantidade: 10, Valor Unitário Sem IVA: 1.2, Biológico: true, Certificações: ISO22000,HACCP, Taxas: [6.0, 5.0, 4.0]
+---
